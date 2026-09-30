@@ -80,7 +80,7 @@ Built with **Claude Code** as part of my daily workflow.
 
 ---
 
-**Lucas Bragança Gonçalves** · [Portfolio](https://github.com/lucasbg98/portfolio) · [LinkedIn](https://www.linkedin.com/in/lucas-braganca-goncalves98)
+**Lucas Bragança Gonçalves** · [Portfolio](https://lucasbragancadev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/lucas-braganca-goncalves98)
 
 ### Resumo em português
 O FireSafe é um PWA que construí sozinho, como freelancer, para a Firecorp, uma assessoria em segurança contra incêndio. Ele substituiu a planilha Excel de controle de alvarás e processos de licenciamento, com backend em Firebase (Auth, Firestore, Storage, Cloud Functions, FCM) e um módulo financeiro em Cloudflare Workers. O código é privado; este repositório documenta o produto e a arquitetura.
